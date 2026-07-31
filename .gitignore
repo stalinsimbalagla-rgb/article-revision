@@ -1,0 +1,9 @@
+.mplconfig/
+.venv/
+__pycache__/
+*.py[cod]
+demo_outputs/
+data/private/
+*.xlsx
+*.xls
+*.pbix

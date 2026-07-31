@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and this software package."
+title: "Reproducible Data Audit and Label-Sensitivity Workflow for Predictive Maintenance"
+type: software
+authors:
+  - family-names: "Simba-Lagla"
+    given-names: "Stalin Alexander"
+  - family-names: "Valdez-Masache"
+    given-names: "Geovanny Rolando"
+version: 1.1.0
+date-released: 2026-07-30
+repository-code: "https://github.com/stalinsimbalagla-rgb/privado"
+keywords:
+  - predictive maintenance
+  - data quality
+  - data readiness
+  - reproducibility
+  - label uncertainty
+license: MIT
